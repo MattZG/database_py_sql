@@ -1,0 +1,476 @@
+id;ident;type;name;elevation_ft;municipality;iata_code;score
+6030;SCMB;closed;La Chimba Airport;131;La Chimba;;50
+30366;SCTI;closed;Los Cerrillos Airport;1680;Santiago;ULC;50
+32264;SCMN;closed;Mansel Airport;1411;Paine;;50
+314770;CL-0001;closed;Bahia Catalina Airport;30;Punta Arenas;;0
+314771;CL-0002;closed;Gente Grande Airport;36;Porvenir;;0
+314772;CL-0003;closed;Kimiri Ayke Airport;85;;;0
+39329;SHAC;heliport;Asociacion Chilena de Seguridad Heliport;1969;Santiago;;25
+39330;SHAG;heliport;Anguila 1 Heliport;66;Magallanes;;25
+39331;SHAH;heliport;Nazareno II Heliport;0;Santiago;;25
+39332;SHAP;heliport;Asistencia Publica Dr. Alejandro del Rio Heliport;1886;Santiago;;25
+39333;SHAU;heliport;La Aurora Heliport;696;Curacavi;;25
+39334;SHBE;heliport;Banco Exterior Heliport;2000;Santiago;;25
+39335;SHBL;heliport;Hospital Ramon Barros Luco Heliport;1805;Santiago;;25
+39336;SHBP;heliport;Bahia Los Primos Heliport;574;La Estrella;;25
+39337;SHBS;heliport;Banco Santander Heliport;2067;Santiago;;25
+39338;SHCA;heliport;Prefectura Aeropolicial de Carabineros Heliport;2070;Santiago;;25
+39339;SHCB;heliport;Caburga Heliport;1558;Pucon;;25
+39341;SHCG;heliport;Cachagua Heliport;80;Zapallar;;25
+39342;SHCI;heliport;San Cristobal Heliport;98;Zapallar;;25
+39343;SHCM;heliport;Corporativo Mutual Heliport;2100;Santiago;;25
+39344;SHCP;heliport;Servicios Aereos Copters Heliport;1509;Rancagua;;25
+39345;SHCY;heliport;Hospital de Coyhaique Heliport;915;Coyhaique;;25
+39346;SHDG;heliport;Bateria Dungenes N1 Heliport;25;Magallanes;;25
+39347;SHDN;heliport;Daniel 1 Heliport;98;Magallanes;;25
+39348;SHDO;heliport;Valle Nevado Heliport;9858;Farellones;;25
+39349;SHDP;heliport;Del Pacifico Heliport;200;Temuco;;25
+39350;SHEC;heliport;Edificio Bank Boston Heliport;2270;Santiago;;25
+39351;SHEE;heliport;Esmeralda Heliport;574;Yerbas Buenas;;25
+39352;SHEH;heliport;Edificio Huidobro Heliport;2470;Santiago;;25
+39353;SHEI;heliport;Escuela de Investigaciones Policiales Heliport;1608;Santiago;;25
+39354;SHEM;heliport;El Mercurio Heliport;2247;Santiago;;25
+39355;SHEQ;heliport;El Conquistador Heliport;1670;Santiago;;25
+39356;SHES;heliport;Eso Heliport;7861;Antofagasta;;25
+39357;SHET;heliport;San Esteban Heliport;541;Yerbas Buenas;;25
+39358;SHFE;heliport;Hospital San Camilo Heliport;2155;San Felipe;;25
+39359;SHFR;heliport;San Francisco Heliport;935;Litueche;;25
+39360;SHGA;heliport;Gral. Humberto Arriagada Heliport;1903;Santiago;;25
+39361;SHGE;heliport;Gertrudis Echenique Heliport;2270;Santiago;;25
+39362;SHHC;heliport;Hospital Clinico Regional de Concepcion Heliport;151;Concepcion;;25
+39363;SHHE;heliport;Helicopters Heliport;1837;Machali;;25
+39364;SHHF;heliport;Hospital FACH Heliport;2574;Santiago;;25
+39365;SHHI;heliport;Hospital de Carabineros Heliport;2426;Santiago;;25
+39366;SHHL;heliport;Las Condes Heliport;0;Santiago;;25
+39367;SHHM;heliport;Hospital Militar Heliport;2067;Santiago;;25
+39368;SHHN;heliport;Hospital Naval Almirante Nef Heliport;200;Vina Del Mar;;25
+39369;SHHR;heliport;Carabineros de Chile Heliport;213;Punta Arenas;;25
+39370;SHHS;heliport;Hospital del Salvador Heliport;1910;Santiago;;25
+39371;SHHV;heliport;Naval Heliport;12;Arica;;25
+39372;SHIQ;heliport;Cuartel Gral. VI Division de Ejercito Heliport;26;Iquique;;25
+39373;SHJO;heliport;Hospital San Jose Heliport;1868;Santiago;;25
+39374;SHKI;heliport;Kipreos Heliport;1575;Santiago;;25
+39375;SHLA;heliport;Las Americas Heliport;2126;Santiago;;25
+39376;SHLC;heliport;Lan Courier Heliport;1565;Santiago;;25
+39377;SHLP;heliport;La Parva Heliport;9080;Farellones;;25
+39378;SHLS;heliport;Las Salinas Heliport;10;Vina Del Mar;;25
+39380;SHMB;heliport;Mercedez Benz Heliport;1617;Santiago;;25
+39381;SHMD;heliport;Ministerio de Defensa Nacional Heliport;2123;Santiago;;25
+39382;SHMS;heliport;Mutual de Seguridad Heliport;1650;Santiago;;25
+39383;SHNC;heliport;Catalina Norte 1 Heliport;98;Punta Arenas;;25
+39384;SHNL;heliport;Nueva de Lyon Heliport;2192;Santiago;;25
+39385;SHNO;heliport;Catalina Norte 2 Heliport;30;Punta Arenas;;25
+39386;SHNZ;heliport;Nazareno Heliport;2822;Pirque;;25
+39387;SHOV;heliport;Lo Ovalle Heliport;919;Casablanca;;25
+39388;SHPE;heliport;Pelluco Heliport;66;Puerto Montt;;25
+39389;SHPP;heliport;Papudo Heliport;82;Papudo;;25
+39391;SHPU;heliport;Punta Catalina Heliport;16;Punta Catalina;;25
+39392;SHQN;heliport;Quinn Heliport;49;Valdivia;;25
+39393;SHRB;heliport;Rodelbahn Heliport;2789;Santiago;;25
+39394;SHRP;heliport;Rapel Heliport;394;Las Cabras;;25
+39395;SHSB;heliport;Cerro Sombrero Heliport;98;Magallanes;;25
+39396;SHSC;heliport;Santiago Centro Heliport;2083;Santiago;;25
+39397;SHSD;heliport;Sonda Heliport;76;Santiago;;25
+39398;SHSE;heliport;Posesion Heliport;76;Posesion;;25
+39399;SHSI;heliport;Posesion 5 Heliport;98;Posesion;;25
+39400;SHSK;heliport;Skua 1 Heliport;98;Punta Catalina;;25
+39401;SHSM;heliport;Edificio Torre Santa Maria Heliport;2329;Santiago;;25
+39402;SHSO;heliport;Hospital Santiago Oriente Heliport;2083;Santiago;;25
+39403;SHSR;heliport;Edificio Torre San Ramon Heliport;2133;Santiago;;25
+39404;SHSS;heliport;Hospital Regional de Temuco Heliport;410;Temuco;;25
+39405;SHST;heliport;Santiago Heliport;1929;Santiago;;25
+39406;SHSU;heliport;Skua 4 Heliport;69;Punta Catalina;;25
+39407;SHTC;heliport;Edificio Corporativo CTC Heliport;2389;Santiago;;25
+39408;SHTI;heliport;Torre Interamericana Heliport;2185;Santiago;;25
+39409;SHTL;heliport;Torre Ligure Heliport;182;Concepcion;;25
+39410;SHTO;heliport;Subteniente Marcelo Topali Heliport;2121;Santiago;;25
+39411;SHTR;heliport;Sotracer Heliport;486;Los Angeles;;25
+39412;SHWT;heliport;World Trade Center Heliport;2261;Santiago;;25
+39413;SHYA;heliport;Sumaya Heliport;2244;Pirque;;25
+45083;SHAB;heliport;Aguas Blancas Heliport;102;Puchuncavi;;0
+45084;SHAE;heliport;Aerorescate Heliport;1460;Pudahuel;;0
+45085;SHAL;heliport;Los Paltos Heliport;298;Isla De Maipo;;0
+45086;SHBC;heliport;Las Brisas De Chicureo Heliport;1175;Santiago;;0
+45087;SHEJ;heliport;Cuartel Gral. I Division De Ejercito Heliport;124;Antofagasta;;0
+45088;SHFA;heliport;Los Cerrillos Military Heliport;1703;Santiago;;0
+45089;SHGR;heliport;Edificio Corpgroup Heliport;2448;Las Condes;;0
+45090;SHIS;heliport;Isidora 3000 Heliport;2510;Las Condes;;0
+45091;SHOT;heliport;Santa Rosa De Tabali Heliport;787;Ovalle;;0
+45092;SHRE;heliport;Jose Miguel Carrera Heliport;2034;Santiago;;0
+45093;SHVI;heliport;Villarica Park Lake Heliport;804;Villarrica;;0
+45094;SHVM;heliport;Vina Matetic Heliport;820;Cartagena;;0
+332832;CL-0008;heliport;Clinica Alemana Helipad;2485;Santiago;;0
+332834;SHIN;heliport;Clinica Indisa Helipad;2100;Santiago;;0
+332835;SHEB;heliport;Ejercito Bicentenario Helipad;1821;Santiago;;0
+332836;SHPD;heliport;Titanium Heliport;2727;Santiago;;0
+332837;SHME;heliport;La Cabana Heliport;59;San Pedro;;0
+332838;SHSP;heliport;Moneda Bicentenario Heliport;1962;Santiago;;0
+6015;SCEL;large_airport;Comodoro Arturo Merino Benitez International Airport;1555;Santiago;SCL;51150
+6001;SCAR;medium_airport;Chacalluta Airport;167;Arica;ARI;875
+6002;SCAT;medium_airport;Desierto de Atacama Airport;670;Copiapo;CPO;400
+6003;SCBA;medium_airport;Balmaceda Airport;1722;Balmaceda;BBA;875
+6004;SCBE;medium_airport;Barriles Airport;3475;Tocopilla;TOQ;250
+6006;SCCC;medium_airport;Chile Chico Airport;1070;Chile Chico;CCH;250
+6007;SCCF;medium_airport;El Loa Airport;7543;Calama;CJC;875
+6008;SCCH;medium_airport;Gral. Bernardo OHiggins Airport;495;Chillan;YAI;250
+6009;SCCI;medium_airport;Pdte. Carlos Ibanez del Campo Airport;139;Punta Arenas;PUQ;1050
+6011;SCCY;medium_airport;Teniente Vidal Airport;1020;Coyhaique;GXQ;250
+6012;SCDA;medium_airport;Diego Aracena Airport;155;Iquique;IQQ;1050
+6017;SCES;medium_airport;Ricardo Garcia Posada Airport;5240;El Salvador;ESR;800
+6018;SCFA;medium_airport;Andres Sabella Galvez International Airport;455;Antofagasta;ANF;875
+6019;SCFM;medium_airport;Capitan Fuentes Martinez Airport Airport;104;Porvenir;WPR;250
+6023;SCGZ;medium_airport;Guardiamarina Zanartu Airport;88;Puerto Williams;WPU;250
+6024;SCHR;medium_airport;Cochrane Airport;643;Cochrane;LGR;250
+6025;SCIE;medium_airport;Carriel Sur Airport;26;Concepcion;CCP;1050
+6026;SCIP;medium_airport;Mataveri Airport;227;Isla De Pascua;IPC;1000
+6027;SCJO;medium_airport;Canal Bajo Carlos - Hott Siebert Airport;187;Osorno;ZOS;875
+6029;SCLL;medium_airport;Vallenar Airport;1725;Vallenar;VLR;250
+6031;SCNT;medium_airport;Tte. Julio Gallardo Airport;217;Puerto Natales;PNT;275
+6037;SCRA;medium_airport;Chanaral Airport;97;Chanaral;CNR;250
+6038;SCRG;medium_airport;De La Independencia Airport;1446;Rancagua;QRC;250
+6040;SCSE;medium_airport;La Florida Airport;481;La Serena-Coquimbo;LSC;875
+6042;SCTC;medium_airport;Maquehue Airport;304;Temuco;PZS;875
+6043;SCTE;medium_airport;El Tepual Airport;294;Puerto Montt;PMC;1050
+6044;SCTL;medium_airport;Panguilemo Airport;371;Talca;TLX;250
+6045;SCTN;medium_airport;Chaiten Airport;13;Chaiten;WCH;250
+6046;SCTO;medium_airport;Victoria Airport;1148;Victoria;ZIC;250
+6047;SCTT;medium_airport;Las Breas Airport;2580;Taltal;TTC;250
+6048;SCVD;medium_airport;Pichoy Airport;59;Valdivia;ZAL;825
+6050;SCVM;medium_airport;Vina del mar Airport;461;Vina Del Mar;KNA;325
+314783;SCQP;medium_airport;La Araucania Airport;333;Temuco;ZCO;0
+1639;SC1A;small_airport;Canchones West Airport;3251;Canchones;;50
+1641;CL-SC49;small_airport;Oficina Victoria Airport;3280;Oficina Victoria;;50
+6005;SCBQ;small_airport;El Bosque Airport;1844;Santiago;;50
+6010;SCCL;small_airport;Caldera Airport;180;Caldera;;50
+6013;SCDW;small_airport;Almirante Schroeders Airport;160;Isla Dawson;;50
+6014;SCEC;small_airport;Pelicano Airport;3678;Estacion Chanaral;;50
+6016;SCER;small_airport;Quintero Airport;12;Quintero;;50
+6020;SCFT;small_airport;Futaleufu Airport;1148;Futaleufu;FFU;50
+6021;SCFX;small_airport;Isla San Felix Airport;165;Isla San Felix;;50
+6022;SCGE;small_airport;Maria Dolores Airport;374;Los Angeles;LSQ;50
+6028;SCKP;small_airport;Coposa Airport;12468;Pica;CPP;50
+6032;SCOT;small_airport;Santa Rosa de Tabali Airport;787;Ovalle;;50
+6033;SCPC;small_airport;Pucon Airport;853;Pucon;ZPC;450
+6034;SCPE;small_airport;San Pedro de Atacama Airport;7960;San Pedro De Atacama;;50
+6035;SCQT;small_airport;LasTacas Airport;140;Quebrada Las Tacas;;50
+6036;SCQY;small_airport;Villa Portales Airport;3182;Lonquimay;;50
+6041;SCTB;small_airport;Eulogio Sanchez Airport;2129;Santiago;;50
+6049;SCVL;small_airport;Las Marias Airport;13;Valdivia;;450
+28147;SCIR;small_airport;Robinson Crusoe Airport;433;Isla Robinson Crusoe;;50
+29657;SCAP;small_airport;Alto Palena Airport;794;Alto Palena;WAP;50
+29774;SCHA;small_airport;Chamonate Airport;984;Copiapo;;450
+29800;SCCT;small_airport;Quivolgo Airport;36;Constitucion;;50
+29812;SCCV;small_airport;Curacavi Airport;686;Curacavi;;50
+29883;SCFL;small_airport;Fundo Loma Larga Airport;869;Casablanca;;50
+29885;SCST;small_airport;Gamboa Airport;151;Castro;WCA;50
+29980;SCIM;small_airport;Isla Mocha Airport;52;Isla Mocha;;50
+30078;SCLN;small_airport;Municipal de Linares Airport;591;Linares;ZLR;50
+30081;SCLD;small_airport;Llanada Grande Airport;1001;Llanada Grande;;50
+30082;SCAN;small_airport;San Rafael Airport;2461;Los Andes;LOB;50
+30223;SCOS;small_airport;Osorno Pampa Ale Airport;79;Osorno;;50
+30265;SCEP;small_airport;El Principal Airport;2592;Pirque;;50
+30301;SCAS;small_airport;Cabo 1 Juan Roman Airport;30;Puerto Aysen;WPA;50
+30304;SCAC;small_airport;Pupelde Airport;315;Ancud;ZUD;50
+30305;SCPV;small_airport;El Mirador Airport;430;Puerto Varas;PUX;50
+30307;SCPH;small_airport;Puyuhuapi Airport;43;Puyuhuapi;;50
+30312;SCON;small_airport;Quellon Airport;16;Quellon;;50
+30322;SCRP;small_airport;Rapelhuapi Airport;568;Rapel;;50
+30370;SCSF;small_airport;Victor Lafon Airport;2188;San Felipe;SSD;50
+30379;SCLC;small_airport;Municipal de Vitacura Airport;2274;Santiago;;50
+30385;SCSD;small_airport;San Fernando Airport;1079;San Fernando;;50
+32137;SCOV;small_airport;El Tuqui Airport;1100;Ovalle;OVL;50
+32254;SCAF;small_airport;San Alfonso Airport;407;Alhue;;50
+32255;SCAG;small_airport;Agua Santa Airport;476;Palmilla;;50
+32256;SCAH;small_airport;Tolquien Airport;551;Achao;;50
+32257;SCAU;small_airport;Juan Enrique Airport;1263;Paine;;50
+32258;SCFN;small_airport;Russfin Airport;684;Timaukel;;50
+32259;SCGO;small_airport;Los Confines Airport;240;Angol;;50
+32260;SCGU;small_airport;Aguas Blancas Airport;3346;Antofagasta;;50
+32261;SCIL;small_airport;Auco Airport;1420;Illapel;;50
+32262;SCIV;small_airport;Panimavida Airport;591;Panimavida;;50
+32263;SCLE;small_airport;La Escondida Airport;10289;Antofagasta;;50
+32265;SCOH;small_airport;Villa OHiggins Airport;898;Villa O'Higgins;;50
+32266;SCPA;small_airport;Paranal Airport;6834;Antofagasta;;50
+32267;SCPL;small_airport;Calpulli Airport;755;Paillaco;;50
+32269;SCSG;small_airport;San Geronimo Airport;341;Algarrobo;;50
+32270;SCSN;small_airport;Santo Domingo Airport;246;Santo Domingo;;50
+32271;SCSS;small_airport;San Sebastian Airport;50;San Sebastian;;50
+32272;SCTQ;small_airport;Tres Quebradas Airport;11690;Alto Del Carmen;;50
+32273;SCVN;small_airport;Huancara Airport;1968;Vicuna;;50
+32326;SCSB;small_airport;Franco Bianco Airport;104;Cerro Sombrero;SMB;50
+32565;SCRD;small_airport;Rodelillo Airport;1100;Vina Del Mar;VAP;50
+39087;SCAA;small_airport;Anorada Airport;459;Frutillar;;50
+39088;SCAB;small_airport;El Alba Airport;450;La Lumbrera;;50
+39089;SCAD;small_airport;Santa Adriana Airport;558;Ovalle;;50
+39090;SCAE;small_airport;El Buitre Airport;328;Arica;;50
+39091;SCAJ;small_airport;Las Alpacas Airport;550;Retiro;;50
+39092;SCAK;small_airport;Atacalco Airport;2362;Recinto;;50
+39093;SCAM;small_airport;Alempue Airport;1083;Teno;;50
+39094;SCAO;small_airport;Palo Alto Airport;279;Lolol;;50
+39095;SCAQ;small_airport;Arquilhue Airport;590;Lago Ranco;;50
+39096;SCAV;small_airport;La Vertiente Airport;459;Chillan;;50
+39097;SCAY;small_airport;Ayacara Airport;80;Ayacara;;50
+39098;SCAZ;small_airport;Azopardo Airport;59;Timaukel;;50
+39099;SCBC;small_airport;Cacique Blanco Airport;750;Lago Verde;;50
+39100;SCBD;small_airport;El Boldal Airport;574;Santa Cruz;;50
+39101;SCBI;small_airport;Pampa Guanaco Airport;591;Bahia Inutil;DPB;50
+39102;SCBN;small_airport;Cotreumo Airport;607;Rio Bueno;;50
+39103;SCBR;small_airport;Lago Brown Airport;540;Lago Brown;;50
+39104;SCBS;small_airport;Posesion Airport;100;Bahia Posesion;;50
+39105;SCBT;small_airport;Rincon Bonito Airport;705;Cochamo;;50
+39106;SCBV;small_airport;Bellavista Airport;885;Rio Claro;;50
+39107;SCCA;small_airport;El Boldo Airport;525;Cauquenes;;50
+39108;SCCB;small_airport;Pedro Villarroel C. Airport;3002;Combarbala;;50
+39109;SCCG;small_airport;La Pelicana Airport;2790;Combarbala;;50
+39110;SCCK;small_airport;Contao Airport;10;Contao;;50
+39111;SCCM;small_airport;Molco Airport;479;Choshuenco;;50
+39112;SCCN;small_airport;Alto Cauquenes Airport;568;Cauquenes;;50
+39113;SCCP;small_airport;Callipulli Airport;377;Osorno;;50
+39114;SCCR;small_airport;Enrique Mayer Soto Airport;4;Caleta Tortel;;50
+39115;SCCS;small_airport;Santa Rita Airport;738;Casablanca;;50
+39116;SCCU;small_airport;Lolco Airport;2132;Lonquimay;;50
+39117;SCDD;small_airport;Don Dobri Airport;226;Puerto Varas;;50
+39118;SCDH;small_airport;Vodudahue Airport;98;Chaiten;;50
+39119;SCDI;small_airport;Pichidangui Airport;98;Pichidangui;;50
+39120;SCDL;small_airport;El Algarrobo Airport;951;Cabildo;;50
+39121;SCDM;small_airport;San Damian Airport;220;Duao;;50
+39122;SCDQ;small_airport;San Lorenzo Airport;1902;Duqueco;;50
+39123;SCDS;small_airport;San Andres Airport;574;Retiro;;50
+39124;SCEA;small_airport;El Amarillo Airport;1083;Chaiten;;50
+39125;SCEB;small_airport;Entrada Baker Airport;1640;Entrada Baker;;50
+39126;SCED;small_airport;Los Cedros Airport;305;Sagrada Familia;;50
+39127;SCEG;small_airport;El Corte Airport;1024;Talagante;;50
+39128;SCEH;small_airport;El Huachi Airport;1558;Santa Barbara;;50
+39129;SCEK;small_airport;Chepica Airport;610;Chepica;;50
+39130;SCEO;small_airport;El Salto Airport;564;Parral;;50
+39131;SCET;small_airport;El Tambo Airport;748;San Vicente De Tagua Tagua;;50
+39132;SCEV;small_airport;El Avellano Airport;489;Frutillar;FRT;50
+39133;SCEY;small_airport;Entrada Mayer Airport;1550;Entrada Mayer;;50
+39134;SCFC;small_airport;Fachinal Airport;693;Fachinal;;50
+39135;SCFF;small_airport;Freirina Airport;738;Freirina;;50
+39136;SCFI;small_airport;Fundo Tehuen Airport;377;Frutillar;;50
+39137;SCFJ;small_airport;Fray Jorge Airport;492;Ovalle;;50
+39138;SCFK;small_airport;Fundo El Carmen Airport;557;Chillan;;50
+39139;SCFO;small_airport;La Reforma Airport;853;Pelarco;;50
+39140;SCFR;small_airport;Frutillar Airport;469;Frutillar;;50
+39141;SCFS;small_airport;Los Calafates Airport;82;Chonchi;;50
+39142;SCFU;small_airport;Loncopan Airport;886;Futrono;;50
+39143;SCGA;small_airport;Punta Galera Airport;118;La Union;;50
+39144;SCGB;small_airport;Guadaba Airport;272;Los Sauces;;50
+39145;SCGH;small_airport;Cholguahue Airport;732;Los Angeles;;50
+39146;SCGI;small_airport;San Guillermo Airport;495;Retiro;;50
+39147;SCGL;small_airport;Las Aguilas Airport;450;Rapel;;50
+39148;SCGM;small_airport;Los Gomeros Airport;1034;Rengo;;50
+39149;SCGN;small_airport;Caleta Gonzalo Airport;33;Chaiten;;50
+39150;SCGP;small_airport;Curaco Airport;820;Panguipulli;;50
+39151;SCGS;small_airport;Siberia Airport;722;Cholguan;;50
+39152;SCGY;small_airport;Los Guayes Airport;1312;Cunco;;50
+39153;SCHC;small_airport;Chicureo Airport;1886;Santiago;;50
+39154;SCHD;small_airport;Chumilden Airport;66;Chaiten;;50
+39155;SCHE;small_airport;Rucamanqui Airport;1132;Huepil;;50
+39156;SCHG;small_airport;Almahue Airport;420;Pichidegua;;50
+39157;SCHH;small_airport;Punta Baja Airport;721;Chile Chico;;50
+39158;SCHK;small_airport;Hueicolla Airport;59;La Union;;50
+39159;SCHL;small_airport;Hacienda Lipangue Airport;1745;Lampa;;50
+39160;SCHM;small_airport;Punta El Saco Airport;23;Isla Mocha;;50
+39161;SCHN;small_airport;Chan Chan Airport;457;Choshuenco;;50
+39162;SCHO;small_airport;Punta Chungo Airport;249;Los Vilos;;50
+39163;SCHP;small_airport;Copihue Airport;551;Retiro;;50
+39164;SCHT;small_airport;Tic Toc Airport;13;Chaiten;;50
+39165;SCHU;small_airport;Gran Canon Airport;230;Huasco;;50
+39166;SCHW;small_airport;Hualaihue Airport;30;Hualaihue;;50
+39167;SCIA;small_airport;Isla Apiao Airport;250;Isla Apiao;;50
+39168;SCIB;small_airport;Butachauques Airport;150;Isla Butachauques;;50
+39169;SCIC;small_airport;General Freire Airport;722;Curico;;50
+39170;SCID;small_airport;Marco Davison Bascur Airport;30;Punta Arenas;;50
+39171;SCIF;small_airport;Chollinco Airport;330;Llifen;;50
+39172;SCIH;small_airport;Caleta Andrade Airport;115;Isla Las Huichas;;50
+39173;SCII;small_airport;Puerto Ingeniero Ibanez Airport;820;Puerto Ingeniero Ibanez;;50
+39174;SCIK;small_airport;Isla Talcan Airport;45;Isla Talcan;;50
+39175;SCIO;small_airport;Laguna Redonda Airport;1970;Villa O'Higgins;;50
+39176;SCIS;small_airport;Puerto Sur Airport;20;Isla Santa Maria;;50
+39177;SCIT;small_airport;Ivan Martinez Airport;144;Isla Tierra Del Fuego;;50
+39178;SCJC;small_airport;James Conrad Airport;528;Ranguelmo;;50
+39179;SCJK;small_airport;Juan Kemp Airport;459;Osorno;;50
+39180;SCJV;small_airport;El Parron Airport;200;San Javier;;50
+39181;SCKA;small_airport;Santa Marta Airport;577;San Carlos;;50
+39182;SCKB;small_airport;Llollenorte Airport;1641;Lago Caburga;;50
+39183;SCKC;small_airport;Roberto Chavez Airport;895;Cunco;;50
+39184;SCKD;small_airport;El Cardal Airport;525;Rio Bueno;;50
+39185;SCKE;small_airport;Piedra Negra Airport;164;Pelluhue;;50
+39186;SCKI;small_airport;Los Lirios Airport;820;Curico;;50
+39187;SCKK;small_airport;La Cascada Airport;1804;Molina;;50
+39188;SCKL;small_airport;Lipangui Airport;1558;Lampa;;50
+39189;SCKM;small_airport;Cochamo Airport;130;Cochamo;;50
+39190;SCKN;small_airport;Licancel Airport;59;Licanten;;50
+39191;SCKO;small_airport;Agua Buena Airport;1420;Collipulli;;50
+39192;SCKQ;small_airport;Curimanque Airport;1476;Pucon;;50
+39193;SCKT;small_airport;Torreon Airport;216;Coelemu;;50
+39194;SCLA;small_airport;General Tovarias Airport;699;Lautaro;;50
+39195;SCLB;small_airport;Los Pehuenches Airport;587;Lebu;;50
+39196;SCLF;small_airport;Calcurrupe Airport;335;Llifen;;50
+39197;SCLG;small_airport;La Aguada Airport;246;Pencahue;;50
+39198;SCLI;small_airport;Torca Airport;66;Llico;;50
+39199;SCLJ;small_airport;La Junta Airport;120;La Junta;;50
+39200;SCLK;small_airport;Lago Colico Airport;1148;Cunco;;50
+39201;SCLM;small_airport;Las Mercedes Airport;246;San Javier;;50
+39202;SCLO;small_airport;Leones Airport;705;Chile Chico;;50
+39203;SCLP;small_airport;Los Petiles Airport;1575;Molina;;50
+39204;SCLQ;small_airport;Diego Portales Airport;250;La Ligua;;50
+39205;SCLR;small_airport;Los Alerces Airport;345;Chaiten;;50
+39206;SCLS;small_airport;Esperanza Airport;1230;Lautaro;;50
+39207;SCLU;small_airport;La Laguna Airport;528;Marchigue;;50
+39208;SCLV;small_airport;La Vina Airport;870;Guangali;;50
+39209;SCLY;small_airport;La Playa Airport;32;Arauco;;50
+39210;SCMA;small_airport;Puerto Marin Balmaceda Airport;10;Puerto Marin Balmaceda;;50
+39211;SCMC;small_airport;Meseta Cosmelli Airport;950;Puerto Guadal;;50
+39212;SCME;small_airport;Los Cuatro Diablos Airport;660;Melipilla;;50
+39213;SCMF;small_airport;Malloco Airport;935;Villarrica;;50
+39214;SCMG;small_airport;Santa Maria de Mingre Airport;574;San Javier;;50
+39215;SCMH;small_airport;La Esperanza Airport;540;Marchigue;;50
+39216;SCMI;small_airport;Los Tricahues Airport;1650;Mialqui;;50
+39217;SCMK;small_airport;Melinka Airport;35;Melinka;;50
+39218;SCMO;small_airport;Los Monos Airport;574;Molina;;50
+39219;SCMP;small_airport;Melipilla Airport;574;Melipilla;;50
+39220;SCMU;small_airport;Panilonco Airport;574;Pichilemu;;50
+39221;SCMV;small_airport;Vina San Pedro Airport;738;Molina;;50
+39222;SCMY;small_airport;Carolina Airport;128;Michilla;;50
+39223;SCMZ;small_airport;Marina de Rapel Airport;344;El Manzano;;50
+39224;SCND;small_airport;nadis Airport;262;nadis;;50
+39225;SCNE;small_airport;Maria Elena Airport;4003;Maria Elena;;50
+39226;SCNG;small_airport;Papageno Airport;853;Panguipulli;;50
+39227;SCNI;small_airport;Santa Eugenia Airport;410;San Nicolas;;50
+39228;SCNK;small_airport;Los Pelambres Airport;4003;Cuncumen;;50
+39229;SCNM;small_airport;Las Misiones Airport;252;Canete;;50
+39230;SCNO;small_airport;nochaco Airport;328;nochaco;;50
+39231;SCNR;small_airport;Fundo Naicura Airport;1050;Rengo;;50
+39232;SCNS;small_airport;Sandra Scabini Airport;236;Punta Arenas;;50
+39233;SCNY;small_airport;Yendegaia Airport;164;Navarino;;50
+39234;SCOA;small_airport;Estancia Los Loros Airport;820;Ovalle;;50
+39235;SCOC;small_airport;Las Araucarias Airport;600;Puerto Octay;;50
+39236;SCOE;small_airport;San Miguel Airport;1509;Romeral;;50
+39237;SCOL;small_airport;Refugio del Lago Airport;676;Puyehue;;50
+39238;SCOM;small_airport;Olmue Airport;396;Olmue;;50
+39239;SCOP;small_airport;Pilauco Airport;213;Osorno;;50
+39240;SCOY;small_airport;Huayanay Airport;164;Ovalle;;50
+39241;SCPB;small_airport;Puelo Bajo Airport;120;Puelo Bajo;;50
+39242;SCPF;small_airport;Marcel Marchant Airport;367;Puerto Montt;;50
+39243;SCPG;small_airport;Municipal de Panguipulli Airport;940;Panguipulli;;50
+39244;SCPK;small_airport;Puerto Cisnes Airport;45;Puerto Cisnes;;50
+39245;SCPM;small_airport;Pichilemu Airport;82;Pichilemu;;50
+39246;SCPN;small_airport;Pillan Airport;33;Chaiten;;50
+39247;SCPO;small_airport;Los Paltos Airport;869;Quinta Tilcoco;;50
+39248;SCPP;small_airport;Poco a Poco Airport;1680;Mulchen;;50
+39249;SCPR;small_airport;Corte Alto Airport;416;Purranque;;50
+39250;SCPS;small_airport;Perales Airport;633;Copiapo;;50
+39251;SCPU;small_airport;Peulla Airport;900;Peulla;;50
+39252;SCPW;small_airport;Peumo Airport;557;Peumo;;50
+39253;SCPX;small_airport;Punta Catalina Airport;90;Punta Catalina;;50
+39254;SCPY;small_airport;Cerro Castillo Airport;427;Cerro Castillo;;50
+39255;SCQC;small_airport;La Colmena Airport;823;Quino;;50
+39256;SCQE;small_airport;Quenac Airport;164;Isla Quenac;;50
+39257;SCQI;small_airport;Icalma Airport;3806;Lonquimay;;50
+39258;SCQK;small_airport;Lequecahue Airport;220;Tirua;;50
+39259;SCQL;small_airport;El Boco Airport;459;Quillota;;50
+39260;SCQM;small_airport;Las Quemas Airport;250;Osorno;;50
+39261;SCQR;small_airport;Los Morros Airport;7;Cobquecura;;50
+39262;SCQW;small_airport;Quemchi Airport;393;Quemchi;;50
+39263;SCQX;small_airport;Queilen Airport;60;Queilen;;50
+39264;SCRB;small_airport;Rio Bravo Airport;37;Tortel;;50
+39265;SCRC;small_airport;Villa Tapera Airport;1640;Rio Cisnes;;50
+39266;SCRE;small_airport;Estancia Rio Cisnes Airport;2150;Rio Cisnes;;50
+39267;SCRF;small_airport;Laguna San Rafael Airport;20;Laguna San Rafael;;50
+39268;SCRH;small_airport;Renihue Airport;16;Renihue;;50
+39269;SCRI;small_airport;Rio Frio Airport;1000;Rio Frio;;50
+39270;SCRL;small_airport;La Estrella Airport;397;Rapel;;50
+39271;SCRN;small_airport;Rio Negro Airport;10;Rio Negro;;50
+39272;SCRO;small_airport;Santa Barbara Airport;1420;Romeral;;50
+39273;SCRQ;small_airport;Rucananco Airport;502;Rio Bueno;;50
+39274;SCRT;small_airport;El Almendro Airport;486;Retiro;;50
+39275;SCRU;small_airport;Rio Murta Airport;600;Rio Murta;;50
+39276;SCRW;small_airport;Rucalonco Airport;240;Paredones;;50
+39277;SCSA;small_airport;Alberto Santos Dumont Airport;2346;Til Til;;50
+39278;SCSH;small_airport;El Budi Airport;82;Teodoro Schmidt;;50
+39279;SCSJ;small_airport;San Javier Airport;361;San Javier;;50
+39280;SCSK;small_airport;Colorado Airport;1410;San Clemente;;50
+39282;SCSO;small_airport;Costa del Sol Airport;390;Lago Rapel;;50
+39283;SCSQ;small_airport;Quilpe Airport;157;San Pablo;;50
+39284;SCSR;small_airport;Segundo Corral Alto Airport;1200;Segundo Corral;;50
+39285;SCSU;small_airport;Santa Lucia Airport;705;Freire;;50
+39286;SCSV;small_airport;Vinasutil Airport;427;Peralillo;;50
+39287;SCSZ;small_airport;Puerto Sanchez Airport;680;Puerto Sanchez;;50
+39288;SCTG;small_airport;Tongoy Airport;49;Tongoy;;50
+39289;SCTM;small_airport;La Montana Airport;1969;Curico;;50
+39290;SCTP;small_airport;Rio Pascua Airport;197;Tortel;;50
+39291;SCTR;small_airport;Traiguen Airport;812;Traiguen;;50
+39292;SCTS;small_airport;Santa Teresa del Almendral Airport;574;Melipilla;;50
+39293;SCTU;small_airport;Litueche Airport;787;Litueche;;50
+39294;SCTW;small_airport;El Tapihue Airport;935;Casablanca;;50
+39295;SCUI;small_airport;Pumalin Airport;18;Chaiten;;50
+39296;SCUL;small_airport;El Litral Airport;180;Bulnes;;50
+39297;SCUM;small_airport;La Obra Airport;673;Cumpeo;;50
+39298;SCUN;small_airport;Uni Frutti Airport;950;Teno;;50
+39299;SCUP;small_airport;Lontuecito Airport;1066;Cumpeo;;50
+39300;SCUR;small_airport;Rucamalen Airport;475;Bulnes;;50
+39301;SCUT;small_airport;Verfrut Sur Airport;1132;Longavi;;50
+39302;SCUZ;small_airport;Aerosanta Cruz Airport;502;Santa Cruz;;50
+39303;SCVA;small_airport;Vinamar Airport;935;Casablanca;;50
+39304;SCVB;small_airport;Hospital Villa Baviera Airport;1040;Parral;;50
+39305;SCVC;small_airport;El Indio Airport;11975;Vicuna;;50
+39306;SCVE;small_airport;Lago Verde Airport;1020;Lago Verde;;50
+39307;SCVF;small_airport;Verfrut Airport;443;San Pedro;;50
+39308;SCVG;small_airport;El Vergel Airport;820;Rinihue;;50
+39309;SCVH;small_airport;La Victoria de Chacabuco Airport;2139;Santiago;;50
+39310;SCVI;small_airport;Villarrica Airport;945;Villarrica;;50
+39311;SCVJ;small_airport;Paredes Viejas Airport;449;Marchigue;;50
+39312;SCVK;small_airport;El Alamo Airport;33;Vichuquen;;50
+39313;SCVO;small_airport;Maria Ester Airport;978;Victoria;;50
+39314;SCVQ;small_airport;Cuatro Pantanos Airport;82;Vichuquen;;50
+39315;SCVS;small_airport;Lago Vargas Airport;56;Cochrane;;50
+39316;SCVT;small_airport;Vina Tarapaca Airport;1066;Isla De Maipo;;50
+39317;SCVU;small_airport;Agromanzun Airport;738;Vilcun;;50
+39318;SCVV;small_airport;Los Maitenes de Villa Vieja Airport;147;La Union;;50
+39319;SCVY;small_airport;Malla Airport;820;Vilcun;;50
+39320;SCXA;small_airport;Alupenhue Airport;1600;Molina;;50
+39321;SCXB;small_airport;Las Brujas Airport;1483;Salamanca;;50
+39322;SCXR;small_airport;Las Bandurrias Airport;328;Lago Ranco;;50
+39323;SCYB;small_airport;Trilahue Airport;423;Yumbel;;50
+39324;SCYC;small_airport;La Capilla Airport;485;Puyehue;;50
+39325;SCYL;small_airport;Lican Airport;625;Puyehue;;50
+39326;SCYR;small_airport;Los Maitenes Airport;538;Retiro;;50
+39327;SCZC;small_airport;Casas Viejas Airport;262;Zapallar;;50
+39328;SCZE;small_airport;Estero Seco Airport;2461;Pirque;;50
+45054;SCAL;small_airport;Valchac Airport;1116;Cochrane;;0
+45055;SCBB;small_airport;Del Bio Bio Airport;249;Negrete;;0
+45056;SCCE;small_airport;El Arenal Airport;397;Cauquenes;;0
+45057;SCCQ;small_airport;Tambillos Airport;656;Coquimbo;COW;0
+45058;SCEX;small_airport;Rio Exploradores Airport;59;Aysen;;0
+45060;SCGF;small_airport;Golfo Azul Airport;486;Futrono;;0
+45061;SCGV;small_airport;Punta Gaviota Airport;99;Caleta Chanaral De Aceituno;;0
+45062;SCML;small_airport;Melipeuco Airport;1388;Melipeuco;;0
+45063;SCMR;small_airport;Las Aguilas Oriente Airport;450;Rapel;;0
+45064;SCMS;small_airport;Las Moras Airport;512;Longavi;;0
+45065;SCNA;small_airport;Fundo La Cana Airport;525;Linares;;0
+45066;SCNH;small_airport;Ainhoa Airport;992;Vilcun;;0
+45067;SCOB;small_airport;Tabali Bajo Airport;732;Ovalle;;0
+45068;SCOI;small_airport;Los Coipos Airport;318;Hualanne;;0
+45069;SCOO;small_airport;Melimoyu Airport;20;Cisnes;;0
+45070;SCPI;small_airport;Pullami Airport;804;Coihueco;;0
+45071;SCPT;small_airport;La Puerta Airport;509;Santa Cruz;;0
+45072;SCQO;small_airport;Quitralco Airport;46;Aysen;;0
+45073;SCRR;small_airport;Purrahuin Airport;345;Rio Bueno;;0
+45074;SCRS;small_airport;El Rosario Airport;804;Cartagena;;0
+45075;SCRV;small_airport;La Veronica Airport;1280;Vilcun;;0
+45076;SCRZ;small_airport;El Carrizal Airport;492;Marchigue;;0
+45077;SCSP;small_airport;El Sobrante Airport;2559;Petorca;;0
+45078;SCTA;small_airport;Santa Luisa Airport;1818;Santa Barbara;;0
+45079;SCTH;small_airport;Tres Chorrillos Airport;322;San Gregorio;;0
+45080;SCYO;small_airport;Poyo Airport;13;El Chaiten;;0
+45081;SCYU;small_airport;Cuyumaique Airport;443;Purranque;;0
+45082;SCZB;small_airport;Pozo Brujo Airport;394;La Union;;0
+308227;SCBU;small_airport;El Baul Airstrip;3070;Molina;;0
+313732;SCPQ;small_airport;Mocopulli Airport;528;Dalcahue;MHC;0
+314773;CL-0004;small_airport;Cinco de Enero Airport;84;Santa Maria;;0
+314774;CL-0005;small_airport;Oazy Harbour Airport;161;;;0
+314775;CL-0006;small_airport;Onaisin Airport;39;Onaisin;;0
+314781;CL-0007;small_airport;Arco Iris Airport;342;Rio Grande;;0
